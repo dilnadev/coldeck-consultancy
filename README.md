@@ -35,19 +35,4 @@ Corporate website for **Coldeck Solutions**, a B2B cold chain consultancy based 
 
 ---
 
-## Getting Started
 
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the site.
-
----
-
-## Contact
-
-**Devidas Narayanan** — Founder & Principal Consultant  
-Phone: +91 9972110042  
-Email: knd@coldeck.com
